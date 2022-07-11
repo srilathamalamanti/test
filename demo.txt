@@ -6,6 +6,7 @@
 <hr>
 <h2> It's heading 2 </h2> 
 <title> To test versions </title>
+<title> Version 2.0 </tilte>
 
 </body>
 </html>
