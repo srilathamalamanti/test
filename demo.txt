@@ -5,6 +5,7 @@
 <p> It's a paragraph!!</p>
 <hr>
 <h2> It's heading 2 </h2> 
+<title> To test versions </title>
 
 </body>
 </html>
